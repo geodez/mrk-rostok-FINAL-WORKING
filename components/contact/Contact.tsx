@@ -52,11 +52,11 @@ export default function Contact() {
             </div>
             <h3 className="text-lg font-semibold mb-2">Телефоны</h3>
             <p className="text-gray-400 text-sm space-y-1">
-              <a href="tel:+79161070366" className="block hover:text-green-400 transition-colors">
-                +7 (916) 107-03-66
+              <a href="tel:+79869556410" className="block hover:text-green-400 transition-colors">
+                +7 (986) 955-64-10
               </a>
-              <a href="tel:+79161229311" className="block hover:text-green-400 transition-colors">
-                +7 (916) 122-93-11
+              <a href="tel:+79869556410" className="block hover:text-green-400 transition-colors">
+                +7 (986) 955-64-10
               </a>
             </p>
           </motion.div>
@@ -109,7 +109,7 @@ export default function Contact() {
             АО «Козельский механический завод»
           </p>
           <p className="text-sm text-gray-500">
-            ИНН 4009001415 | ОГРН 1024000668273 | КПП 400901001
+            ИНН 0000000000 | ОГРН 0000000000 | КПП 0000000000
           </p>
         </motion.div>
       </div>
